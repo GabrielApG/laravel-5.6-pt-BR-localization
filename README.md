@@ -1,4 +1,4 @@
-# Arquivos de linguagem em Português do Brasil para Laravel 5.6
+# Arquivos de linguagem em Português do Brasil (pt-BR) para Laravel 5.6
 
 ## Instalação
 1. Download
