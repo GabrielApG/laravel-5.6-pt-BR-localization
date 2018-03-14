@@ -8,6 +8,6 @@
   ```
 2. Configuração
   ```
-  // Linha 81 do arquivo config/app.php
+  // Altere Linha 81 do arquivo config/app.php para:
   'locale' => 'pt-BR',
   ```
