@@ -4,7 +4,7 @@
 1. Download
   ```
   $ cd resources/lang/
-  $ git clone https://github.com/enniosousa/laravel-5.5-pt-BR-localization.git ./pt-BR
+  $ git clone https://github.com/lucascudo/laravel-5.6-pt-BR-localization.git ./pt-BR
   ```
 2. Configuração
   ```
